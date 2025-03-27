@@ -12,11 +12,9 @@ body{
       }
       nav {
       display: flex;
-       /* padding-right:30%; */
       margin-top:2%;
       margin-left:6%;
        gap:2%;
-  /* color: gray; */
         padding-top: 1%;
        
     
@@ -95,7 +93,6 @@ body{
         
       }
       .text-on-profile{
-        border: solid;
         position: relative;
 
       }
