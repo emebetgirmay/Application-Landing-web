@@ -1,0 +1,170 @@
+body{
+    margin: 0;
+      }
+      .container{
+        margin: 1%;
+      }
+      header{
+      padding-top: 1%;
+      
+    
+      
+      }
+      nav {
+      display: flex;
+       /* padding-right:30%; */
+      margin-top:2%;
+      margin-left:6%;
+       gap:2%;
+  /* color: gray; */
+        padding-top: 1%;
+       
+    
+      }
+      #feature{
+        color: rgb(8, 1, 1);
+      }
+      
+      #login{
+border: navajowhite;
+width: 10%;
+margin-left: 20%;
+cursor: pointer;
+      }
+      #submit{
+        border-radius: 15px;
+
+        background-color: rgb(223, 89, 111);
+        width: 6%;
+        padding: 10px;
+        border: navajowhite;
+        cursor: pointer;
+
+      }
+      nav a{
+        margin: 0 10px;
+        text-decoration: none;
+        color: rgb(70, 69, 69);
+        cursor: pointer;
+    
+      }
+      a{
+        color: red;
+      }
+      button{
+        cursor: pointer;
+        border-radius: 15px;
+        border: none;
+      }
+      .displayed-text{
+        display: flex; 
+        margin: 5% 10%      
+      }
+      .title-text h1 {
+font-size: 70px;
+      }
+      .title-text p{
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: gray;
+        font-size: 20px;
+      }
+        
+      
+      .title-text a{
+        color: red;
+        /* display: flex; */
+      }
+      .title-text button{
+        /* display: flex; */
+        width: 20%;
+    height: 3%;
+      }
+      .title-text button img{
+        width:60%;
+
+     
+
+        
+      }
+      .text-on-profile{
+        border: solid;
+        position: relative;
+
+      }
+      .profile{
+        display: flex;
+        background-color: rgb(223, 240, 240);
+        padding: 5%;
+        gap: 5%;
+      }
+      .profile img{
+        width: 30%;
+        background-color: white;
+        border-radius: 80px;
+        border-left: solid 10px rgb(219, 75, 99);
+      }
+      .profile p{
+        padding-top: 5%;
+        width: 50%;
+        color: rgb(81, 155, 189);
+        border-radius: 25px;
+        background-color: white;
+      }
+      .text{
+        
+      }
+   .main-body{
+    padding: 0 38%;
+    color: gray;
+    font-size: 22px;
+   }
+   span{
+    font-weight: bold;
+    color: black;
+   }
+      .logo-flexing{
+        display: flex;
+        height: 65px;
+       padding: 15px 20%;
+        justify-content:space-between;
+      }
+      .main-body img{
+display: flex;
+justify-content: center;
+/* grid-row: auto; */
+height: 100px;
+flex-direction:row;
+      }
+      .product-flexing{
+        background-color: rgb(233, 245, 245);
+        margin: 45px 10%;
+        border-radius: 35px;
+      }
+      .second-title{
+        display: flex;
+        padding: 1% 20%;
+        justify-content: space-between;
+        font-size: 25px;
+      }
+      .displayed-main-text{
+         display: flex;
+         justify-content: center;
+         gap: 5%;
+        
+         
+
+        /* padding: 50px; */
+      }
+      .displayed-main-text img{
+        width: 25px;
+        padding: 0 50px;
+      }
+      .products{
+        background-color: white;
+        padding: 25px;
+        border-radius: 20px;
+      }
+      #first-container{
+        border: solid 2px;
+        border-color: rgb(228, 115, 134);
+      }
